@@ -2,4 +2,5 @@ branch1
 main
 branch2
 main
+branch2
 
